@@ -1,5 +1,7 @@
 # FF4GDX
 
-FF4GDX is *not yet usable* - I am still in the process of bringing over my private working code into a nice, ready-to-use library.
+An FFmpeg subsystem for libGDX. See https://github.com/FF4GDX/FF4GDX-main/ for more info.
 
-All are still welcome to ask any questions, open issues or get in touch for whatever reason they like. I encourage all libGDX users to review my code and ask questions.
+## PROTOTYPE NOTICE
+
+FF4GDX is currently incomplete but in rapid development. The library is has NOT even started yet, everything is currently in the reference player (which isn't working as of writing - still in the process of "porting" the initial working code over). So take everything below with a grain of salt for the moment - even this document is a WIP :)
